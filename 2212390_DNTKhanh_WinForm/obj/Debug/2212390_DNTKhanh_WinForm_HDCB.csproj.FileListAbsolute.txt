@@ -1,0 +1,11 @@
+D:\Laapjn trình Web\2212390_DNTKhanh_WinForm_HDCB\2212390_DNTKhanh_WinForm\obj\Debug\2212390_DNTKhanh_WinForm_HDCB.csproj.AssemblyReference.cache
+D:\Laapjn trình Web\2212390_DNTKhanh_WinForm_HDCB\2212390_DNTKhanh_WinForm\obj\Debug\2212390_DNTKhanh_WinForm_HDCB.csproj.SuggestedBindingRedirects.cache
+D:\Laapjn trình Web\2212390_DNTKhanh_WinForm_HDCB\2212390_DNTKhanh_WinForm\obj\Debug\_2212390_DNTKhanh_WinForm.MainForm.resources
+D:\Laapjn trình Web\2212390_DNTKhanh_WinForm_HDCB\2212390_DNTKhanh_WinForm\obj\Debug\_2212390_DNTKhanh_WinForm.Properties.Resources.resources
+D:\Laapjn trình Web\2212390_DNTKhanh_WinForm_HDCB\2212390_DNTKhanh_WinForm\obj\Debug\2212390_DNTKhanh_WinForm_HDCB.csproj.GenerateResource.cache
+D:\Laapjn trình Web\2212390_DNTKhanh_WinForm_HDCB\2212390_DNTKhanh_WinForm\obj\Debug\2212390_DNTKhanh_WinForm_HDCB.csproj.CoreCompileInputs.cache
+D:\Laapjn trình Web\2212390_DNTKhanh_WinForm_HDCB\2212390_DNTKhanh_WinForm\bin\Debug\2212390_DNTKhanh_WinForm.exe.config
+D:\Laapjn trình Web\2212390_DNTKhanh_WinForm_HDCB\2212390_DNTKhanh_WinForm\bin\Debug\2212390_DNTKhanh_WinForm.exe
+D:\Laapjn trình Web\2212390_DNTKhanh_WinForm_HDCB\2212390_DNTKhanh_WinForm\bin\Debug\2212390_DNTKhanh_WinForm.pdb
+D:\Laapjn trình Web\2212390_DNTKhanh_WinForm_HDCB\2212390_DNTKhanh_WinForm\obj\Debug\2212390_DNTKhanh_WinForm.exe
+D:\Laapjn trình Web\2212390_DNTKhanh_WinForm_HDCB\2212390_DNTKhanh_WinForm\obj\Debug\2212390_DNTKhanh_WinForm.pdb
