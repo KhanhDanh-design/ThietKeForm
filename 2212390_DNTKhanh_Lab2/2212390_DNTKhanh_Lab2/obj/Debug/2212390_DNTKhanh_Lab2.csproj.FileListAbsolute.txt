@@ -1,0 +1,10 @@
+C:\Users\PC602\Downloads\2212390_DNTKhanh_Lab2\2212390_DNTKhanh_Lab2\bin\Debug\2212390_DNTKhanh_Lab2.exe.config
+C:\Users\PC602\Downloads\2212390_DNTKhanh_Lab2\2212390_DNTKhanh_Lab2\bin\Debug\2212390_DNTKhanh_Lab2.exe
+C:\Users\PC602\Downloads\2212390_DNTKhanh_Lab2\2212390_DNTKhanh_Lab2\bin\Debug\2212390_DNTKhanh_Lab2.pdb
+C:\Users\PC602\Downloads\2212390_DNTKhanh_Lab2\2212390_DNTKhanh_Lab2\obj\Debug\2212390_DNTKhanh_Lab2.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\2212390_DNTKhanh_Lab2\2212390_DNTKhanh_Lab2\obj\Debug\_2212390_DNTKhanh_Lab2.formTrungTam.resources
+C:\Users\PC602\Downloads\2212390_DNTKhanh_Lab2\2212390_DNTKhanh_Lab2\obj\Debug\_2212390_DNTKhanh_Lab2.Properties.Resources.resources
+C:\Users\PC602\Downloads\2212390_DNTKhanh_Lab2\2212390_DNTKhanh_Lab2\obj\Debug\2212390_DNTKhanh_Lab2.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\2212390_DNTKhanh_Lab2\2212390_DNTKhanh_Lab2\obj\Debug\2212390_DNTKhanh_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\2212390_DNTKhanh_Lab2\2212390_DNTKhanh_Lab2\obj\Debug\2212390_DNTKhanh_Lab2.exe
+C:\Users\PC602\Downloads\2212390_DNTKhanh_Lab2\2212390_DNTKhanh_Lab2\obj\Debug\2212390_DNTKhanh_Lab2.pdb
