@@ -1,0 +1,10 @@
+C:\Users\PC602\source\repos\2212390_DNTKhanh_Lab3\2212390_DNTKhanh_Lab3\bin\Debug\2212390_DNTKhanh_Lab3.exe.config
+C:\Users\PC602\source\repos\2212390_DNTKhanh_Lab3\2212390_DNTKhanh_Lab3\bin\Debug\2212390_DNTKhanh_Lab3.exe
+C:\Users\PC602\source\repos\2212390_DNTKhanh_Lab3\2212390_DNTKhanh_Lab3\bin\Debug\2212390_DNTKhanh_Lab3.pdb
+C:\Users\PC602\source\repos\2212390_DNTKhanh_Lab3\2212390_DNTKhanh_Lab3\obj\Debug\2212390_DNTKhanh_Lab3.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\2212390_DNTKhanh_Lab3\2212390_DNTKhanh_Lab3\obj\Debug\_2212390_DNTKhanh_Lab3.frmSinhVien.resources
+C:\Users\PC602\source\repos\2212390_DNTKhanh_Lab3\2212390_DNTKhanh_Lab3\obj\Debug\_2212390_DNTKhanh_Lab3.Properties.Resources.resources
+C:\Users\PC602\source\repos\2212390_DNTKhanh_Lab3\2212390_DNTKhanh_Lab3\obj\Debug\2212390_DNTKhanh_Lab3.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\2212390_DNTKhanh_Lab3\2212390_DNTKhanh_Lab3\obj\Debug\2212390_DNTKhanh_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\2212390_DNTKhanh_Lab3\2212390_DNTKhanh_Lab3\obj\Debug\2212390_DNTKhanh_Lab3.exe
+C:\Users\PC602\source\repos\2212390_DNTKhanh_Lab3\2212390_DNTKhanh_Lab3\obj\Debug\2212390_DNTKhanh_Lab3.pdb
